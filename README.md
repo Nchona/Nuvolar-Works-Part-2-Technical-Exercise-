@@ -8,6 +8,6 @@
 
 # The order-service-service and customer-service-service are of type ClusterIP which creates a cluster-internal IP to access the services from within the cluster.
 
-# Note: This YAML file assumes that the microservices listen on port 80. 
+# Note: This YAML file assumes that the microservices listen on port 80 and can be chanagable in case of resuse
 
 
